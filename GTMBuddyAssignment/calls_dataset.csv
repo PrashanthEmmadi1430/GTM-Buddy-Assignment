@@ -1,0 +1,151 @@
+id,text_snippet,labels
+1,We are considering CompetitorX due to their pricing concerns.,Competition
+2,Can you provide a budget for your product features?,"Security, Objection, Pricing Discussion"
+3,Can you provide a budget for your product features?,Objection
+4,"The analytics is impressive, but how does it compare to competitors?",Objection
+5,"The AI engine is impressive, but how does it compare to competitors?","Objection, Pricing Discussion"
+6,Can you provide a budget for your product features?,Pricing Discussion
+7,Can you provide a discount for your product features?,"Pricing Discussion, Objection, Security"
+8,We are considering CompetitorZ due to their pricing concerns.,"Pricing Discussion, Objection"
+9,We are considering CompetitorY due to their pricing concerns.,Pricing Discussion
+10,We are considering CompetitorZ due to their pricing concerns.,"Objection, Security, Pricing Discussion"
+11,Our team is worried about data security.,Pricing Discussion
+12,Can you provide a discount for your product features?,"Competition, Pricing Discussion"
+13,Can you provide a budget for your product features?,Objection
+14,What discounts do you offer for renewals?,Security
+15,Can you provide a discount for your product features?,"Objection, Security, Competition"
+16,Can you provide a pricing model for your product features?,"Objection, Pricing Discussion"
+17,Can you provide a pricing model for your product features?,Objection
+18,"The analytics is impressive, but how does it compare to competitors?","Competition, Pricing Discussion, Objection"
+19,What discounts do you offer for renewals?,Competition
+20,What discounts do you offer for renewals?,Pricing Discussion
+21,"The data pipeline is impressive, but how does it compare to competitors?","Security, Pricing Discussion, Objection"
+22,We are considering CompetitorY due to their pricing concerns.,"Competition, Pricing Discussion"
+23,Can you provide a pricing model for your product features?,"Pricing Discussion, Competition"
+24,We are considering CompetitorZ due to their pricing concerns.,"Security, Objection, Pricing Discussion"
+25,Our team is worried about data security.,Pricing Discussion
+26,"The AI engine is impressive, but how does it compare to competitors?","Competition, Security, Pricing Discussion"
+27,"The data pipeline is impressive, but how does it compare to competitors?","Objection, Competition, Pricing Discussion"
+28,We are considering CompetitorY due to their pricing concerns.,"Objection, Pricing Discussion"
+29,What discounts do you offer for renewals?,Objection
+30,Our team is worried about data security.,"Security, Competition, Objection"
+31,"The AI engine is impressive, but how does it compare to competitors?","Objection, Competition, Security"
+32,"The data pipeline is impressive, but how does it compare to competitors?",Security
+33,Our team is worried about integration.,"Pricing Discussion, Security"
+34,What discounts do you offer for renewals?,"Pricing Discussion, Competition"
+35,Can you provide a renewal cost for your product features?,Competition
+36,Our team is worried about integration.,"Security, Competition"
+37,Our team is worried about compliance.,"Objection, Security, Pricing Discussion"
+38,"The AI engine is impressive, but how does it compare to competitors?",Objection
+39,Can you provide a budget for your product features?,"Objection, Security"
+40,"The AI engine is impressive, but how does it compare to competitors?",Competition
+41,We are considering CompetitorZ due to their pricing concerns.,Pricing Discussion
+42,We are considering CompetitorX due to their pricing concerns.,"Objection, Pricing Discussion, Security"
+43,What discounts do you offer for renewals?,"Pricing Discussion, Competition"
+44,What discounts do you offer for renewals?,"Objection, Pricing Discussion, Competition"
+45,Our team is worried about data security.,Competition
+46,We are considering CompetitorX due to their pricing concerns.,Pricing Discussion
+47,We are considering CompetitorX due to their pricing concerns.,Security
+48,"The data pipeline is impressive, but how does it compare to competitors?","Objection, Pricing Discussion"
+49,"The analytics is impressive, but how does it compare to competitors?","Pricing Discussion, Objection, Competition"
+50,Our team is worried about data security.,"Security, Pricing Discussion, Objection"
+51,What discounts do you offer for renewals?,"Pricing Discussion, Competition, Security"
+52,Our team is worried about data security.,"Security, Pricing Discussion, Objection"
+53,Can you provide a pricing model for your product features?,"Competition, Objection, Pricing Discussion"
+54,Our team is worried about compliance.,"Pricing Discussion, Security, Competition"
+55,Our team is worried about data security.,"Pricing Discussion, Security"
+56,Our team is worried about compliance.,"Pricing Discussion, Competition"
+57,Can you provide a pricing model for your product features?,Competition
+58,What discounts do you offer for renewals?,"Competition, Security"
+59,What discounts do you offer for renewals?,"Pricing Discussion, Security"
+60,What discounts do you offer for renewals?,"Security, Competition, Pricing Discussion"
+61,We are considering CompetitorZ due to their pricing concerns.,"Pricing Discussion, Objection, Competition"
+62,We are considering CompetitorX due to their pricing concerns.,Security
+63,"The analytics is impressive, but how does it compare to competitors?",Objection
+64,"The data pipeline is impressive, but how does it compare to competitors?","Pricing Discussion, Objection, Security"
+65,We are considering CompetitorY due to their pricing concerns.,Objection
+66,We are considering CompetitorZ due to their pricing concerns.,"Security, Objection"
+67,We are considering CompetitorY due to their pricing concerns.,"Pricing Discussion, Objection, Security"
+68,We are considering CompetitorX due to their pricing concerns.,Pricing Discussion
+69,We are considering CompetitorZ due to their pricing concerns.,"Security, Pricing Discussion, Objection"
+70,"The AI engine is impressive, but how does it compare to competitors?",Objection
+71,Can you provide a discount for your product features?,"Objection, Security, Pricing Discussion"
+72,We are considering CompetitorZ due to their pricing concerns.,"Objection, Competition"
+73,We are considering CompetitorX due to their pricing concerns.,"Objection, Competition, Pricing Discussion"
+74,Can you provide a budget for your product features?,Security
+75,What discounts do you offer for renewals?,Pricing Discussion
+76,We are considering CompetitorY due to their pricing concerns.,"Competition, Security"
+77,"The AI engine is impressive, but how does it compare to competitors?","Pricing Discussion, Competition"
+78,"The analytics is impressive, but how does it compare to competitors?",Objection
+79,Can you provide a budget for your product features?,"Security, Pricing Discussion, Competition"
+80,Our team is worried about integration.,Objection
+81,What discounts do you offer for renewals?,Security
+82,What discounts do you offer for renewals?,Objection
+83,Can you provide a pricing model for your product features?,"Competition, Security"
+84,Can you provide a renewal cost for your product features?,"Competition, Pricing Discussion"
+85,What discounts do you offer for renewals?,Objection
+86,"The AI engine is impressive, but how does it compare to competitors?","Objection, Competition, Security"
+87,Can you provide a discount for your product features?,Pricing Discussion
+88,Can you provide a budget for your product features?,"Security, Objection"
+89,What discounts do you offer for renewals?,"Security, Pricing Discussion"
+90,What discounts do you offer for renewals?,"Objection, Pricing Discussion"
+91,Our team is worried about data security.,Pricing Discussion
+92,"The analytics is impressive, but how does it compare to competitors?","Competition, Objection"
+93,What discounts do you offer for renewals?,"Pricing Discussion, Security, Competition"
+94,Our team is worried about data security.,Objection
+95,We are considering CompetitorY due to their pricing concerns.,"Competition, Objection, Security"
+96,We are considering CompetitorY due to their pricing concerns.,"Security, Pricing Discussion"
+97,What discounts do you offer for renewals?,"Pricing Discussion, Objection"
+98,"The analytics is impressive, but how does it compare to competitors?","Security, Pricing Discussion, Competition"
+99,"The AI engine is impressive, but how does it compare to competitors?","Competition, Pricing Discussion"
+100,Our team is worried about data security.,Objection
+101,Can you provide a pricing model for your product features?,Objection
+102,We are considering CompetitorZ due to their pricing concerns.,"Competition, Security, Objection"
+103,Can you provide a budget for your product features?,"Objection, Competition, Security"
+104,What discounts do you offer for renewals?,Competition
+105,We are considering CompetitorX due to their pricing concerns.,"Competition, Pricing Discussion, Security"
+106,What discounts do you offer for renewals?,"Competition, Security"
+107,Can you provide a budget for your product features?,"Security, Pricing Discussion"
+108,Our team is worried about data security.,"Objection, Pricing Discussion"
+109,Our team is worried about compliance.,"Competition, Objection"
+110,Our team is worried about data security.,Objection
+111,Our team is worried about data security.,Objection
+112,What discounts do you offer for renewals?,"Objection, Pricing Discussion"
+113,Can you provide a budget for your product features?,"Competition, Security"
+114,We are considering CompetitorY due to their pricing concerns.,Security
+115,What discounts do you offer for renewals?,Objection
+116,Can you provide a budget for your product features?,Pricing Discussion
+117,"The data pipeline is impressive, but how does it compare to competitors?",Objection
+118,Our team is worried about integration.,Objection
+119,"The AI engine is impressive, but how does it compare to competitors?",Competition
+120,Our team is worried about compliance.,"Competition, Security"
+121,We are considering CompetitorX due to their pricing concerns.,Competition
+122,What discounts do you offer for renewals?,Pricing Discussion
+123,"The AI engine is impressive, but how does it compare to competitors?",Competition
+124,Our team is worried about compliance.,Security
+125,We are considering CompetitorZ due to their pricing concerns.,Competition
+126,We are considering CompetitorZ due to their pricing concerns.,"Competition, Objection, Security"
+127,Can you provide a renewal cost for your product features?,Objection
+128,Can you provide a pricing model for your product features?,"Security, Pricing Discussion, Objection"
+129,What discounts do you offer for renewals?,Security
+130,We are considering CompetitorZ due to their pricing concerns.,"Security, Objection, Competition"
+131,What discounts do you offer for renewals?,Objection
+132,What discounts do you offer for renewals?,"Pricing Discussion, Competition, Security"
+133,Can you provide a budget for your product features?,Objection
+134,We are considering CompetitorX due to their pricing concerns.,Competition
+135,What discounts do you offer for renewals?,Competition
+136,We are considering CompetitorZ due to their pricing concerns.,"Competition, Security, Pricing Discussion"
+137,Our team is worried about compliance.,"Pricing Discussion, Security"
+138,Can you provide a pricing model for your product features?,"Competition, Security"
+139,"The analytics is impressive, but how does it compare to competitors?","Competition, Security"
+140,"The AI engine is impressive, but how does it compare to competitors?",Pricing Discussion
+141,"The data pipeline is impressive, but how does it compare to competitors?",Pricing Discussion
+142,Our team is worried about data security.,"Pricing Discussion, Security"
+143,"The analytics is impressive, but how does it compare to competitors?","Objection, Competition, Pricing Discussion"
+144,We are considering CompetitorZ due to their pricing concerns.,Pricing Discussion
+145,"The analytics is impressive, but how does it compare to competitors?","Pricing Discussion, Objection, Security"
+146,Our team is worried about compliance.,"Pricing Discussion, Competition, Security"
+147,"The data pipeline is impressive, but how does it compare to competitors?",Competition
+148,Can you provide a renewal cost for your product features?,Competition
+149,What discounts do you offer for renewals?,Objection
+150,What discounts do you offer for renewals?,Objection
